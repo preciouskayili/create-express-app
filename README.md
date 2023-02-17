@@ -8,8 +8,8 @@ Before running this script, make sure you have the following software installed:
 ## Usage
 - Download or clone this repository.
 - Open a terminal and navigate to the directory where the `create-express-app.sh` file is located.
-- Run the command ```#!/bin/bash chmod +x create-express-app.sh``` to make the script executable.
-- Run the command ```#!/bin/bash ./create-express-app.sh``` to create a new REST API project.
+- Run the command ```chmod +x create-express-app.sh``` to make the script executable.
+- Run the command ```./create-express-app.sh``` to create a new REST API project.
 
 ### The script will prompt you for the following information:
 - The name of your new project
