@@ -18,18 +18,18 @@ Before running this script, make sure you have the following software installed:
 
 ### After you provide this information, the script will create a new directory with the specified project name, and will set up the following files and directories:
 
-- app.js: The main application file, which sets up the server and routing.
-- config.js: A configuration file for the project.
-- controllers/: A directory for your controller files.
-- models/: A directory for your model files.
-- routes/: A directory for your route files.
-- helpers/: A directory for your helper files.
-- package.json: A file for managing the project's dependencies.
-- README.md: A file for documenting your project.
+- `app.js`: The main application file, which sets up the server and routing.
+- `config.js`: A configuration file for the project.
+- `controllers/`: A directory for your controller files.
+- `models/`: A directory for your model files.
+- `routes/`: A directory for your route files.
+- `helpers/`: A directory for your helper files.
+- `package.json`: A file for managing the project's dependencies.
+- `README.md`: A file for documenting your project.
 
 
 ## Customization
 If you want to customize the basic structure of the project, you can modify the create-express-app.sh file directly to change the directories and files that are created.
 
-Credits
+## Credits
 This script was created by Precious Kayili. Feel free to use it and modify it as you see fit. If you find any bugs or have suggestions for improvement, please let me know!
