@@ -7,9 +7,9 @@ Before running this script, make sure you have the following software installed:
 - MongoDB (https://www.mongodb.com)
 ## Usage
 - Download or clone this repository.
-- Open a terminal and navigate to the directory where the create-express-app.sh file is located.
-- Run the command chmod +x create-express-app.sh to make the script executable.
-- Run the command ./create-express-app.sh to create a new REST API project.
+- Open a terminal and navigate to the directory where the `create-express-app.sh` file is located.
+- Run the command ```#!/bin/bash chmod +x create-express-app.sh``` to make the script executable.
+- Run the command ```#!/bin/bash ./create-express-app.sh``` to create a new REST API project.
 
 ### The script will prompt you for the following information:
 - The name of your new project
@@ -29,7 +29,7 @@ Before running this script, make sure you have the following software installed:
 
 
 ## Customization
-If you want to customize the basic structure of the project, you can modify the create-express-app.sh file directly to change the directories and files that are created.
+If you want to customize the basic structure of the project, you can modify the `create-express-app.sh` file directly to change the directories and files that are created.
 
 ## Credits
 This script was created by Precious Kayili. Feel free to use it and modify it as you see fit. If you find any bugs or have suggestions for improvement, please let me know!
